@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.future-section{
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+
+/* .main-box{
+    position: relative;
+    background: #ff0000;
+    width: 300px;
+    height: 200px;
+} */
+
+
+.social{
+    position: fixed;
+    right: -35px;
+    top: 200px;
+    transition: 0.7s;
+}
+
+.social:hover{
+    right: 0px;
+    transition: 0.7s;
+}
+
+.social img{
+    width: 70%;
+}
+
+.demo{
+    background: #2ecf0a;
+    height: 200vh;
+
+}
+
+.demo2{
+    background: #166804;
+    height: 200vh;
+
+}
+
+
+
+
